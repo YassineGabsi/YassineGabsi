@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Metrics](/github-metrics.svg), <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">, or <img src="/github-metrics.svg" alt="Metrics" width="100%">
-<!--
+ <img src="/github-metrics.svg" alt="Metrics" width="100%">
+ 
+ <!--
 **YassineGabsi/YassineGabsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
