@@ -1,13 +1,3 @@
-<style>
-.logo-wrapper {
-    padding: 8px;
-    background: #20242A;
-    width: fit-content;
-    height: 50px;
-    border-radius: 100%
-}
-</style>
-
   <div class="logo-wrapper">
     <a href="https://yassinegabsi.com">
       <img src="https://yassinegabsi.com/assets/logo.png" />
